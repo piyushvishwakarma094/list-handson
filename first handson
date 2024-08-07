@@ -1,0 +1,29 @@
+<html>
+    <h1>FORM<H1><h5>
+    <form><align-text >
+    Name = <input type="text" placeholder="enter a name"><br>
+    Email = <input type="text" placeholder="enter a email"><br>
+    Password = <input type="text" placeholder="enter a password"><br>
+    language : <br>
+    <input type="radio" name="language" value="react">React<br>
+    <input type="radio" name="language" value="angular">Angular<br>
+    <input type="radio" name="language" value="vue">Vue<br>
+    course : <br>
+    <input type= "checkbox">Mern<br>
+<input type= "checkbox">Mean<br>
+<input type= "checkbox">Mevn<br>
+field :
+<br>
+<select name ="field" required>
+    <option value="front end">front end</option>
+    <option value="back end">back end</option>
+    <option value="full stack">full stack</option>
+</select><br>
+<br>
+<textarea name="description" id cols="50" rows="10"></textarea>
+<br>
+<br>
+Phone Number<input type="text" placeholder=""><br>
+<input type="submit" value="submit"></h5>
+<h1>Table</h1>
+<a href="\TABLE.html">click here</a>
